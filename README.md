@@ -1,5 +1,10 @@
 # Inok - Russian Productivity Calendar
 
+[![License](https://poser.pugx.org/inok/ru-calendar/license)](https://packagist.org/packages/inok/ru-calendar)
+[![License](https://poser.pugx.org/inok/ru-calendar/v/stable)](https://packagist.org/packages/inok/ru-calendar)
+[![License](https://poser.pugx.org/inok/ru-calendar/d/monthly)](https://packagist.org/packages/inok/ru-calendar)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/nchizhov/ru-calendar/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/nchizhov/ru-calendar/?branch=master)
+
 This package offers a russian productivity calendar. Source calendar takes from www.consultant.ru.
 
 ## Installation
