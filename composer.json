@@ -1,0 +1,31 @@
+{
+    "name": "inok/ru-calendar",
+    "description": "Russian Productivity Calendar",
+    "type": "library",
+    "keywords": [
+        "calendar",
+        "productivity calendar"
+    ],
+    "homepage": "http://blog.kgd.in",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Chizhov Nikolay",
+            "email": "admin@kgd.in",
+            "homepage": "http://blog.kgd.in",
+            "role": "System Administrator"
+        }
+    ],
+    "require": {
+        "php": ">=7.0 || ~8.0.0",
+        "appzz/curl-client": "3.*",
+        "ext-dom": "*",
+        "ext-libxml": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Inok\\ruCalendar\\": "src"
+        }
+    }
+}
